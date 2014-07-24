@@ -19,7 +19,7 @@
 {
     // put update code here
     
-    timeSinceObstacle += de;ta;
+    timeSinceObstacle += delta;
     
     
     if (timeSinceObstacle > 2.0f) {
